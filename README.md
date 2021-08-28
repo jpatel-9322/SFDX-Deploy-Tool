@@ -2,7 +2,7 @@
 
 SFDX Deploy Tool helps you to deploy metadata from one salesforce org to another using SFDX CLI commands.
 
-## Getting Started
+## Getting Started with SFDX Deployment tools
 
 Download this repository as a zip file and extract it. You can also clone this repository using the below command.
 ```
